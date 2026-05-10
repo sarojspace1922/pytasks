@@ -1,3 +1,4 @@
-print("hello world");
+print("hello world")
 print("this is python dev")
 print("vs code:")
+print("im updated")
